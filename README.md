@@ -8,4 +8,6 @@ The (hypothetical) purpose of this (hypothetical) project is to (hypothetically)
 
 ## License & copyright
 
+## REALTIME EDITING OF THE READ ME FILE- ian ohlander (ivo)
+
 Licensed under the [MIT License](LICENSE).
